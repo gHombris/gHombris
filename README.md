@@ -1,7 +1,5 @@
-# 👋 Olá, eu sou o Gabriel!
-
-🎓 Estudante de Engenharia de Software  
-📈 Interesse: Desenvolvimento FullStack 
+Estudante de Engenharia de Software  
+Interesse: 
 
 ### 🚀 Skills
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
