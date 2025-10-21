@@ -34,7 +34,7 @@
   <a href="https://www.linkedin.com/in/gabrielhombris/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="emailto:gabriel.hombris@gmail.com" target="_blank">
+  <a href="mailto:gabriel.hombris@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"" />
   </a>
 </div>
