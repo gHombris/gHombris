@@ -1,7 +1,6 @@
-<h1 align="center">Olá 👋, eu sou o Gabriel!</h1>
+<h1 align="center">Olá, eu sou o Gabriel!</h1>
 <p align="center">
-  Estudante de <strong>Engenharia de Software</strong> com foco em <strong>desenvolvimento fullstack</strong> <br>
-  Sempre em busca de evolução e apaixonado por tecnologia 
+  Estudante de <strong>Engenharia de Software</strong> com foco em <strong>desenvolvimento backend</strong> <br>
 </p>
 
 ---
