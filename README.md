@@ -1,15 +1,15 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark" />
+<img width="100%" height="150" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark" />
 
 <br>
 
 <div>
-  <img align="left" height="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRqZWl2Mm9tZDF2a3p3dDE4NWJ1aDF0bnl0OTdmM3JtMGZxYnozdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vPzbDN4rBxuvtpSpzF/giphy.gif" />
+  <img align="left" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRqZWl2Mm9tZDF2a3p3dDE4NWJ1aDF0bnl0OTdmM3JtMGZxYnozdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vPzbDN4rBxuvtpSpzF/giphy.gif" />
   <br>
-  <h3>&nbsp;&nbsp;&nbsp;Hi, I'm Gabriel! 👋</h3>
-  <h5>&nbsp;&nbsp;&nbsp;&nbsp;Backend Developer | Software Engineering student.</h4>
+  <h2>&nbsp;&nbsp;&nbsp;Hi, I'm Gabriel! 👋</h2>
+  <h3>&nbsp;&nbsp;&nbsp;&nbsp;Backend Developer | Software Engineering student.</h3>
 </div>
 
-
+<br clear="both">
 
 <h3 align="center">Tech Stack</h3>
 
@@ -45,4 +45,4 @@
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=22&descAlign=50&descAlignY=50&textBg=false&theme=onedark" />
+<img width="100%" height="150" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=22&descAlign=50&descAlignY=50&textBg=false&theme=onedark" />
