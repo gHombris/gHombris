@@ -3,5 +3,5 @@
 </div>
 
 <br>
-<img width="100%" height="475" alt="aoba" src="https://github.com/user-attachments/assets/6dc3bc21-8507-4ac4-98e0-fed3b5a451a1" />
+
 
